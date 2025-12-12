@@ -1,7 +1,7 @@
 class Solution {
 public:
     string addBinary(string a, string b) {
-         int al=a.length()-1 ;
+    int al=a.length()-1 ;
     int bl=b.length()-1 ;
     int sum=0;
     int carry=0;
@@ -14,11 +14,11 @@ public:
     //   cout<<sum<<endl<<carry<<endl;
         if(sum>1){carry=1;}
         sum=sum%2;
-        result.insert(result.begin(), sum+'0');
-        
+result.push_back(sum+'0');        
         al--;
         bl--;
     }
+    reverse(begin(result),end(result));
     return result;
     }
 };
