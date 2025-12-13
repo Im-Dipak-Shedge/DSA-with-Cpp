@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
