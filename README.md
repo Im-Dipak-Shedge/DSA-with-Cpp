@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
 ## Math
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
