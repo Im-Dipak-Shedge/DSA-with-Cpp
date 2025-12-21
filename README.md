@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
