@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0136-single-number) |
+| [0704-binary-search](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
