@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -129,4 +132,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
